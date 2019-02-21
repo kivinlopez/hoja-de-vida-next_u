@@ -1,0 +1,28 @@
+[33mcommit fbb750e969db792f45e7c35abbd129d02e9ec9ea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kivindirlian <kevindirlianlopezgiraldo@gmail.com>
+Date:   Tue Feb 19 23:57:09 2019 -0500
+
+    README.md
+
+[1mdiff --git a/README b/README[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e6a8ddd[m
+Binary files /dev/null and b/README differ
+[1mdiff --git a/hoja-de-vida-next_u b/hoja-de-vida-next_u[m
+[1mnew file mode 160000[m
+[1mindex 0000000..7124516[m
+[1m--- /dev/null[m
+[1m+++ b/hoja-de-vida-next_u[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 71245167648b420bd71b6bee986fd1b966775d34[m
+
+[33mcommit d4ba1b715f799c70d0c3d07d0497d128c8a0fe8d[m
+Author: kivindirlian <kevindirlianlopezgiraldo@gmail.com>
+Date:   Tue Feb 19 23:30:09 2019 -0500
+
+    46bd95736c717c9e81908134d9cdc9ed8eedd3d6
+
+[1mdiff --git a/imagenes/images.jpg b/imagenes/images.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..75f3c93[m
+Binary files /dev/null and b/imagenes/images.jpg differ
